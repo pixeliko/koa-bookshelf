@@ -1,0 +1,15 @@
+{
+  "container_definitions": [
+    {
+      "name": "app",
+      "image": "",
+      "environment": [
+        {
+          "name": "NODE_ENV",
+          "value": "production"
+        }
+      ]
+    }
+  ],
+  "family": "pixelikokoa-bookshelf"
+}
